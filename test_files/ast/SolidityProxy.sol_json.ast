@@ -1,0 +1,15 @@
+{
+  "attributes":
+  {
+    "absolutePath": "contracts/SolidityProxy.sol",
+    "exportedSymbols": {},
+    "license": null,
+    "nodes":
+    [
+      null
+    ]
+  },
+  "id": 1,
+  "name": "SourceUnit",
+  "src": "2:0:0"
+}
